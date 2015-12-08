@@ -1,4 +1,4 @@
-# SFTPFileUploadUsingWebAPIandAngularJS
+# SFTP File Upload Using WebAPI and AngularJS
 Uplaod files to SFTP using ASp.NET Web API and AngularJS upload plugin by nervgh
 
 Angular-file-upload directive by nervgh is an awesome lightweight AngularJS directive which handles file upload for you and lets you upload files asynchronously to the server. This post will give you basic understanding on how to upload files by using this directive together with .NET WebAPI service on SFTP server. For the purpose of this tutorial, I'll keep everything as simple as possible since the focus here is on connecting AngularJS and async upload with a .NET WebAPI service and not on additional functionality which can be built afterwards around angular-file-upload.
